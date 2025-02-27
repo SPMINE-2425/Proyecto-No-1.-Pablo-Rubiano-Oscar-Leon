@@ -9,7 +9,10 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "requests (>=2.32.3,<3.0.0)",
-    "pandas (>=2.2.3,<3.0.0)"
+    "pandas (>=2.2.3,<3.0.0)",
+    "ace-tools (>=0.0,<0.1)",
+    "matplotlib (>=3.10.0,<4.0.0)",
+    "squarify (>=0.4.4,<0.5.0)"
 ]
 
 
